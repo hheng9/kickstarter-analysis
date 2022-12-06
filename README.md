@@ -10,7 +10,7 @@
 
 ### Outcomes based on goals had a higher success and fail rates with the lower goal values. The lower goal values brought a higher success percentages and as the goal values increased then so did the failed percentages. There is not much data to take from the number of canceled projects.
 
-### The biggest challenge for me was trying to understand the formula definitions and error codes for my formula entries. I overcame these issues through trial & error , practicing the lessons over again, and perform more research as needed.
+### The biggest challenge for me was trying to understand the formula definitions and error codes for my formula entries. I overcame these issues through trial & error , practicing the lessons over & over again, and performing more research as needed.
 
 ## Results
 
