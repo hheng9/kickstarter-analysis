@@ -21,3 +21,4 @@
 - One limitations of this dataset would be the information given could be out of date or not current.
 
 - It is possible to create many other tables & graphs using different categories/subcategories such as music & rock filtered by countries, outcomes, or dealines.
+[Kickstarter_Challenge.zip](https://github.com/hheng9/kickstarter-analysis/files/10162626/Kickstarter_Challenge.zip)
