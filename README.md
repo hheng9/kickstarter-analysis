@@ -21,4 +21,13 @@
 - One limitations of this dataset would be the information given could be out of date or not current.
 
 - It is possible to create many other tables & graphs using different categories/subcategories such as music & rock filtered by countries, outcomes, or dealines.
+
+## Outcomes Based on Launch Date Chart
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/118647523/205818017-e98a31cf-af8c-4b5d-b723-23bdfefdd4a1.png)
+
+## Outcomes Based on Goals Chart
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/118647523/205818147-b4536ef9-a0df-42be-9a63-b0a1d5e49788.png)
+
+## Kickstarter Challenge Workbook
 [Kickstarter_Challenge.zip](https://github.com/hheng9/kickstarter-analysis/files/10162626/Kickstarter_Challenge.zip)
+
