@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### The purpose of this analysis is to compare, review, or dissect multiple and various crowdfunding kickstarter projects. We analyze the kickstarter data from every angle by applying filters, formulas, pivot tables, charts, and calculations to display our findings.
+### The purpose of this analysis is to compare, review, or dissect multiple and various crowdfunding kickstarter projects. We analyzed the kickstarter data from every angle by applying filters, formulas, pivot tables, charts, and calculations to display our findings.
 
 ## Analysis and Challenges
 
