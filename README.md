@@ -6,7 +6,7 @@
 
 ## Analysis and Challenges
 
-### I began performing my analysis by filtering the necessary categories from the kickstarter worksheet. I then migrated the information over to a pivot table so I could better organize the correct fields accordingly. After completing the pivot table I inserted the appropriate chart from the data collected. The more successful outcomes based on launch dates began to rise only through mid year whereas the failed and canceled stayed somewhat consistant throughout the year. May and June had the most successful and failed launches which meant there were morte attempts performed in thos months overall.
+### I began performing my analysis by filtering the necessary categories from the kickstarter worksheet. I then migrated the information over to a pivot table so I could better organize the correct fields accordingly. After completing the pivot table I inserted the appropriate chart from the data collected. The more successful outcomes based on launch dates began to rise only through mid year whereas the failed and canceled stayed somewhat consistant throughout the year. May and June had the most successful and failed launches which meant there were more attempts performed in those months overall.
 
 ## Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/118647523/207738495-b6288285-8e10-4ecf-9e7d-b4d5dd6a19ed.png)
