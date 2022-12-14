@@ -24,19 +24,13 @@
 
 ### Theater outcomes based on launch dates were most successful in the months of May and June. Winter, spring and fall had more failed attempts of launching. 
 
-
-
 ## What can you conclude about the Outcomes based on Goals?
 
 ### As we can see there are zero projects canceled for the outcomes based on goals. There were more projects performed and a higher success rate for the total project with lesser goals.
 
-
-
 ## What are some limitations of this dataset?
 
 ### Limitations of this dataset could be the information given is out of date, the information is not current, or there need to be a wider range of information. 
-
-
 
 ## What are some other possible tables and/or graphs that we could create?
 
