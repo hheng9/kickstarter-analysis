@@ -20,13 +20,18 @@
 
 ## Results
 
-- Theater outcomes based on launch dates were most successful in the months of May and June.
+## What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- There are zero projects canceled for the outcomes based on goals. 
+### Theater outcomes based on launch dates were most successful in the months of May and June. Winter, spring and fall had more failed attempts of launching. 
 
-- One limitations of this dataset would be the information given could be out of date or not current.
+## What can you conclude about the Outcomes based on Goals?
 
-- It is possible to create many other tables & graphs using different categories/subcategories such as music & rock filtered by countries, outcomes, or dealines.
+### As we can see there are zero projects canceled for the outcomes based on goals. There were more projects performed and a higher success rate for the total project with lesser goals.
 
-## Kickstarter Challenge Workbook
+## What are some limitations of this dataset?
 
+### Limitations of this dataset could be the information given is out of date, the information is not current, or there need to be a wider range of information. 
+
+## What are some other possible tables and/or graphs that we could create?
+
+### You could create many other tables & graphs using different categories/subcategories such as music & rock filtered by countries, outcomes, or dealines.
