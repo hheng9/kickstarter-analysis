@@ -30,7 +30,7 @@
 
 ## What are some limitations of this dataset?
 
-### Limitations of this dataset could be the information given is out of date, the information is not current, or there need to be a wider range of information. 
+### Limitations of this dataset could be the information given is out of date, the information is not current, or there needs to be a wider range of information. 
 
 ## What are some other possible tables and/or graphs that we could create?
 
